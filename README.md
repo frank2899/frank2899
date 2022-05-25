@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Connect with me:
 
+[<img align="left" alt="Aughus Frank Bueno | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" />][gmail]
+[<img align="left" alt="Aughus Frank Bueno | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/640px-Facebook_icon_2013.svg.png" />][facebook]
+[<img align="left" alt="Frank2899 | GitHub" width="22px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />][github]
+<br />
+<br />
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][#]
@@ -33,14 +39,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>][#]
 [<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />][#]
 <br/>
-<br />
-<br />
-### Connect with me:
-
-[<img align="left" alt="Aughus Frank Bueno | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" />][gmail]
-[<img align="left" alt="Aughus Frank Bueno | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/640px-Facebook_icon_2013.svg.png" />][facebook]
-[<img align="left" alt="Frank2899 | GitHub" width="22px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />][github]
-<br />
 
 [github]: https://github.com/frank2899
 [gmail]: mailto:aughusf089@gmail.com
