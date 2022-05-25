@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="Aughus Frank Bueno | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/640px-Facebook_icon_2013.svg.png" />][facebook]
 [<img align="left" alt="Frank2899 | GitHub" width="22px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />][github]
 <br />
+<br />
+<br />
 
 [github]: https://github.com/frank2899
 [gmail]: mailto:aughusf089@gmail.com
