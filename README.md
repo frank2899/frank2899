@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][#]
 [<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/480/mongodb.png"/>][#]
 [<img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>][#]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][#]
+[<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />][#]
 <br/>
 ### Connect with me:
 
 [<img align="left" alt="Aughus Frank Bueno | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" />][gmail]
 [<img align="left" alt="Aughus Frank Bueno | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/640px-Facebook_icon_2013.svg.png" />][facebook]
-[<img align="left" alt="Frank2899 | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Frank2899 | GitHub" width="22px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />][github]
 <br />
 
 [github]: https://github.com/frank2899
