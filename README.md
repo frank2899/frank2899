@@ -34,10 +34,11 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [<img align="left" alt="Aughus Frank Bueno | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" />][gmail]
+[<img align="left" alt="Aughus Frank Bueno | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/640px-Facebook_icon_2013.svg.png" />][facebook]
 [<img align="left" alt="Frank2899 | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 <br />
 
 [github]: https://github.com/frank2899
 [gmail]: mailto:aughusf089@gmail.com
-[#]: #
+[facebook]: https://https://facebook.com/aughus
 
