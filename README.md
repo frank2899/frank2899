@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br/>
 ### Connect with me:
 
-[<img align="left" alt="Aughus Frank Bueno | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Aughus Frank Bueno | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" />][gmail]
 [<img align="left" alt="Frank2899 | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 <br />
 
