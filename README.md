@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <span style="background-color:white;padding:15px">
   <center>
-    <img src="https://i.gifer.com/7SvE.gif" style="100px"/>
+    <img src="https://i.gifer.com/7SvE.gif" height="100px"/>
   </center>
 </span>
 <!--
