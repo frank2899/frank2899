@@ -16,14 +16,16 @@ Here are some ideas to get you started:
 <!-- <img alt="Bling bling doge" src="https://static.wikia.nocookie.net/oidarcn/images/7/78/Pika.gif/revision/latest?cb=20160720220827g" />
 
 <br/> -->
+<!-- [![Nishant1500's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishant1500&show_icons=true&theme=radical)](https://github.com/Nishant1500?tab=overview) -->
 
-### Connect with me:
+[![Github Badge](https://img.shields.io/badge/-@frank2899-000000?style=flat&labelColor=000000&logo=Github&link=https://github.com/frank2899)](https://github.com/frank2899)
+[![Discord Badge](https://img.shields.io/badge/-frank2899-5865F2?style=flat&logo=Discord&logoColor=white&link=https://discord.me)](https://discord.me)
+[![Facebook Badge](https://img.shields.io/badge/-/aughus-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/aughus)](https://facebook.com/aughus)
+[![Gmail Badge](https://img.shields.io/badge/Aughus_Bueno-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aughusf089@gmail.com)](mailto:aughusf089@gmail.com)
 
-[<img align="left" alt="Aughus Frank Bueno | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" />][gmail]
-[<img align="left" alt="Aughus Frank Bueno | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/640px-Facebook_icon_2013.svg.png" />][facebook]
-[<img align="left" alt="Frank2899 | GitHub" width="22px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />][github]
-<br />
-<br />
+<a href="https://github.com/frank2899?tab=overview">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frank2899&hide_border=true" alt="Bueno Stats" /></p>
+</a>
 
 ### Languages and Tools:
 
