@@ -1,9 +1,4 @@
-<!-- ### Hi there 👋 -->
-<span style="background-color:white;padding:15px;">
-  <center>
-    [<img src="https://i.gifer.com/7SvE.gif" width="100px"/>][#]
-  </center>
-</span>
+
 <!--
 **frank2899/frank2899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img alt="Bling bling doge" src="https://static.wikia.nocookie.net/oidarcn/images/7/78/Pika.gif/revision/latest?cb=20160720220827g" />
+
+<br/>
+
 ### Connect with me:
 
 [<img align="left" alt="Aughus Frank Bueno | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" />][gmail]
@@ -25,6 +24,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Frank2899 | GitHub" width="22px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />][github]
 <br />
 <br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][#]
