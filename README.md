@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/frank2899?tab=overview" align="center">
 <p>
-  <img alt="Bling bling doge" src="https://static.wikia.nocookie.net/oidarcn/images/7/78/Pika.gif/revision/latest?cb=20160720220827g" width="150"/>
+  <img alt="Bling bling doge" src="https://static.wikia.nocookie.net/oidarcn/images/7/78/Pika.gif/revision/latest?cb=20160720220827g" width="100"/>
 </p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frank2899&hide_border=true" alt="Bueno Stats" />
@@ -34,27 +34,33 @@ Here are some ideas to get you started:
 
 </div>
 
-<br/>
+<div align="center">
+  
+<h2>⚡Languages and Tools⚡</h2>
 
-### Languages and Tools:
+</div>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][#]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][#]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][#]
-[<img align="left" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/602px-Bootstrap_logo.svg.png" />][#]
-[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][#]
-[<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />][#]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][#]
-[<img align="left" alt="JQuery" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/jquery-10-1175155.png" />][#]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][#]
-[<img align="left" alt="Vue Js" width="26px" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" />][#]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][#]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][#]
-[<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/480/mongodb.png"/>][#]
-[<img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>][#]
-[<img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/480/firebase.png"/>][#]
-[<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />][#]
+<div align="center">
+  
+[<img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][#]
+[<img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][#]
+[<img align="center" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][#]
+[<img align="center" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/602px-Bootstrap_logo.svg.png" />][#]
+[<img align="center" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][#]
+[<img align="center" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />][#]
+[<img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][#]
+[<img align="center" alt="JQuery" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/jquery-10-1175155.png" />][#]
+[<img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][#]
+[<img align="center" alt="Vue Js" width="26px" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" />][#]
+[<img align="center" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][#]
+[<img align="center" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][#]
+[<img align="center" alt="MongoDB" width="26px" src="https://img.icons8.com/color/480/mongodb.png"/>][#]
+[<img align="center" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>][#]
+[<img align="center" alt="Firebase" width="26px" src="https://img.icons8.com/color/480/firebase.png"/>][#]
+[<img align="center" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />][#]
+
 <br/>
+</div>
 
 [github]: https://github.com/frank2899
 [gmail]: mailto:aughusf089@gmail.com
