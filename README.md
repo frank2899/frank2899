@@ -13,19 +13,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <img alt="Bling bling doge" src="https://static.wikia.nocookie.net/oidarcn/images/7/78/Pika.gif/revision/latest?cb=20160720220827g" />
 
-<br/> -->
-<!-- [![Nishant1500's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishant1500&show_icons=true&theme=radical)](https://github.com/Nishant1500?tab=overview) -->
+<!-- [![Frank2899's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frank2899&show_icons=true)](https://github.com/frank2899?tab=overview) -->
 
-[![Github Badge](https://img.shields.io/badge/-@frank2899-000000?style=flat&labelColor=000000&logo=Github&link=https://github.com/frank2899)](https://github.com/frank2899)
-[![Discord Badge](https://img.shields.io/badge/-frank2899-5865F2?style=flat&logo=Discord&logoColor=white&link=https://discord.me)](https://discord.me)
-[![Facebook Badge](https://img.shields.io/badge/-/aughus-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/aughus)](https://facebook.com/aughus)
-[![Gmail Badge](https://img.shields.io/badge/Aughus_Bueno-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aughusf089@gmail.com)](mailto:aughusf089@gmail.com)
-
-<a href="https://github.com/frank2899?tab=overview">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frank2899&hide_border=true" alt="Bueno Stats" /></p>
+<a href="https://github.com/frank2899?tab=overview" align="center">
+<p>
+  <img alt="Bling bling doge" src="https://static.wikia.nocookie.net/oidarcn/images/7/78/Pika.gif/revision/latest?cb=20160720220827g" width="150"/>
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frank2899&hide_border=true" alt="Bueno Stats" />
+</p>
 </a>
+
+<div align="center">
+  
+<a href="#">[![Github Badge](https://img.shields.io/badge/-@frank2899-000000?style=flat&labelColor=000000&logo=Github&link=https://github.com/frank2899)](https://github.com/frank2899)</a>
+<a href="#">[![Discord Badge](https://img.shields.io/badge/-frank2899-5865F2?style=flat&logo=Discord&logoColor=white&link=https://discord.me)](https://discord.me)</a>
+<a href="#">[![Facebook Badge](https://img.shields.io/badge/-/aughus-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/aughus)](https://facebook.com/aughus)</a>
+<a href="#">[![Gmail Badge](https://img.shields.io/badge/Aughus_Bueno-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aughusf089@gmail.com)](mailto:aughusf089@gmail.com)</a>
+
+</div>
+
+<br/>
 
 ### Languages and Tools:
 
