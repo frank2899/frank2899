@@ -16,15 +16,6 @@ Here are some ideas to get you started:
 
 <!-- [![Frank2899's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frank2899&show_icons=true)](https://github.com/frank2899?tab=overview) -->
 
-<a href="https://github.com/frank2899?tab=overview" align="center">
-<p>
-  <img alt="Bling bling doge" src="https://static.wikia.nocookie.net/oidarcn/images/7/78/Pika.gif/revision/latest?cb=20160720220827g" width="100"/>
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frank2899&hide_border=true" alt="Bueno Stats" />
-</p>
-</a>
-
 <div align="center">
   
 <a href="#">[![Github Badge](https://img.shields.io/badge/-@frank2899-000000?style=flat&labelColor=000000&logo=Github&link=https://github.com/frank2899)](https://github.com/frank2899)</a>
@@ -34,9 +25,19 @@ Here are some ideas to get you started:
 
 </div>
 
+<a href="https://github.com/frank2899?tab=overview" align="center">
+<!-- <p>
+  <img alt="Bling bling doge" src="https://static.wikia.nocookie.net/oidarcn/images/7/78/Pika.gif/revision/latest?cb=20160720220827g" width="100"/>
+</p> -->
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frank2899&hide_border=true" alt="Bueno Stats" />
+</p>
+</a>
+
+
 <div align="center">
   
-<h2>⚡Languages and Tools⚡</h2>
+<!-- <h2>⚡Languages and Tools⚡</h2> -->
 
 </div>
 
