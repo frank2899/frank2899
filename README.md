@@ -61,8 +61,6 @@ Here are some ideas to get you started:
 [<img align="center" alt="Firebase" width="26px" src="https://img.icons8.com/color/480/firebase.png"/>][#]
 [<img align="center" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />][#]
 <br/>
-  <hr/>
-  <h3>Things I plan to learn next : Next.js and Nuxt.js 😁</h3>
 </div>
 
 [github]: https://github.com/frank2899
