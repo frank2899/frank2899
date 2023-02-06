@@ -67,5 +67,5 @@ Here are some ideas to get you started:
 
 [github]: https://github.com/frank2899
 [gmail]: mailto:aughusf089@gmail.com
-[facebook]: https://https://facebook.com/aughus
+[facebook]: https://www.facebook.com/Frank2899
 [#]: #
