@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
 <a href="#">[![Github Badge](https://img.shields.io/badge/-@frank2899-000000?style=flat&labelColor=000000&logo=Github&link=https://github.com/frank2899)](https://github.com/frank2899)</a>
 <a href="#">[![Discord Badge](https://img.shields.io/badge/-frank2899-5865F2?style=flat&logo=Discord&logoColor=white&link=https://discord.me)](https://discord.me)</a>
-<a href="#">[![Facebook Badge](https://img.shields.io/badge/-/aughus-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/aughus)](https://facebook.com/aughus)</a>
+<a href="#">[![Facebook Badge](https://img.shields.io/badge/-/Frank2899-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/Frank2899)](https://facebook.com/Frank2899)</a>
 <a href="#">[![Gmail Badge](https://img.shields.io/badge/Aughus_Bueno-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aughusf089@gmail.com)](mailto:aughusf089@gmail.com)</a>
 
 </div>
