@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 [<img align="center" alt="TypeScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />][#]
 [<img align="center" alt="JQuery" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/jquery-10-1175155.png" />][#]
 [<img align="center" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][#]
+[<img align="center" alt="Next Js" width="30px" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" />][#]
 [<img align="center" alt="Vue Js" width="30px" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" />][#]
 [<img align="center" alt="Angular" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" />][#]
 [<img align="center" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][#]
@@ -64,6 +65,23 @@ Here are some ideas to get you started:
 [<img align="center" alt="GitHub" width="30px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />][#]
 [<img align="center" alt="Postman" width="30px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" />][#]
 [<img align="center" alt="Figma" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />][#]
+<br/>
+</div>
+
+<div align="center">
+  
+<h2>⚡Tech Stack Focus on⚡</h2>
+
+</div>
+
+<div align="center">
+
+[<img align="center" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][#]
+[<img align="center" alt="TypeScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />][#]]
+[<img align="center" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][#]
+[<img align="center" alt="Next Js" width="30px" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" />][#]
+[<img align="center" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][#]
+[<img align="center" alt="MongoDB" width="30px" src="https://img.icons8.com/color/480/mongodb.png"/>][#]
 <br/>
 </div>
 
