@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 
 <!-- [![Frank2899's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frank2899&show_icons=true)](https://github.com/frank2899?tab=overview) -->
 
-  <hr/>
-<img align="center" style="max-width:300px;width:100%" src="https://preview.redd.it/jvujfnh7mfi51.gif?width=414&auto=webp&s=94ccb048e151baa0a625587da8134daffd74c0f1" />
 <div align="center">
   
+<img align="center" width=100px" src="https://preview.redd.it/jvujfnh7mfi51.gif?width=414&auto=webp&s=94ccb048e151baa0a625587da8134daffd74c0f1" />
+  <hr/>
+
 <a href="#">[![Github Badge](https://img.shields.io/badge/-@frank2899-000000?style=flat&labelColor=000000&logo=Github&link=https://github.com/frank2899)](https://github.com/frank2899)</a>
 <a href="#">[![Discord Badge](https://img.shields.io/badge/-frank2899-5865F2?style=flat&logo=Discord&logoColor=white&link=https://discord.me)](https://discord.me)</a>
 <a href="#">[![Facebook Badge](https://img.shields.io/badge/-/Frank2899-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/Frank2899)](https://facebook.com/Frank2899)</a>
