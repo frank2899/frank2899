@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <!-- [![Frank2899's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frank2899&show_icons=true)](https://github.com/frank2899?tab=overview) -->
 
   <hr/>
+<img align="center" style="max-width:400px;width:100%" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" />
 <div align="center">
   
 <a href="#">[![Github Badge](https://img.shields.io/badge/-@frank2899-000000?style=flat&labelColor=000000&logo=Github&link=https://github.com/frank2899)](https://github.com/frank2899)</a>
@@ -65,6 +66,7 @@ Here are some ideas to get you started:
 [<img align="center" alt="GitHub" width="30px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />][#]
 [<img align="center" alt="Postman" width="30px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" />][#]
 [<img align="center" alt="Figma" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />][#]
+[<img align="center" alt="Redux" width="30px" src="https://repository-images.githubusercontent.com/347723622/92065800-865a-11eb-9626-dff3cb7fef55"/>][#]
 <br/>
 </div>
 
@@ -82,6 +84,7 @@ Here are some ideas to get you started:
 [<img align="center" alt="Next Js" width="30px" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" />][#]
 [<img align="center" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][#]
 [<img align="center" alt="MongoDB" width="30px" src="https://img.icons8.com/color/480/mongodb.png"/>][#]
+[<img align="center" alt="Redux" width="30px" src="https://repository-images.githubusercontent.com/347723622/92065800-865a-11eb-9626-dff3cb7fef55"/>][#]
 <br/>
 </div>
 
