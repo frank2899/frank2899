@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 [<img align="center" alt="PHP" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][#]
 [<img align="center" alt="Laravel" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />][#]
 [<img align="center" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][#]
+[<img align="center" alt="TypeScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />][#]
 [<img align="center" alt="JQuery" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/jquery-10-1175155.png" />][#]
 [<img align="center" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][#]
 [<img align="center" alt="Vue Js" width="30px" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" />][#]
