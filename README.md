@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-<img align="center" width=100px" src="https://preview.redd.it/jvujfnh7mfi51.gif?width=414&auto=webp&s=94ccb048e151baa0a625587da8134daffd74c0f1" />
+<img align="center" width="100px" src="https://preview.redd.it/jvujfnh7mfi51.gif?width=414&auto=webp&s=94ccb048e151baa0a625587da8134daffd74c0f1" />
   <hr/>
 
 <a href="#">[![Github Badge](https://img.shields.io/badge/-@frank2899-000000?style=flat&labelColor=000000&logo=Github&link=https://github.com/frank2899)](https://github.com/frank2899)</a>
