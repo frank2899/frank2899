@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-<img align="center" width="100px" src="https://preview.redd.it/jvujfnh7mfi51.gif?width=414&auto=webp&s=94ccb048e151baa0a625587da8134daffd74c0f1" />
+  <div style="display:flex;justify-content:center">
+<img align="center" width="60px" src="https://media3.giphy.com/media/DGaZTLF390Z0s/giphy.gif?cid=6c09b95280eee9mh9ks9y1w49w1cdiqr325gelxkz78timpf&rid=giphy.gif&ct=s" />
+<img align="center" width="60px" src="https://media3.giphy.com/media/DGaZTLF390Z0s/giphy.gif?cid=6c09b95280eee9mh9ks9y1w49w1cdiqr325gelxkz78timpf&rid=giphy.gif&ct=s" />
+<img align="center" width="60px" src="https://media3.giphy.com/media/DGaZTLF390Z0s/giphy.gif?cid=6c09b95280eee9mh9ks9y1w49w1cdiqr325gelxkz78timpf&rid=giphy.gif&ct=s" />
+  </div>
   <hr/>
 
 <a href="#">[![Github Badge](https://img.shields.io/badge/-@frank2899-000000?style=flat&labelColor=000000&logo=Github&link=https://github.com/frank2899)](https://github.com/frank2899)</a>
