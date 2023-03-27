@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- [![Frank2899's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frank2899&show_icons=true)](https://github.com/frank2899?tab=overview) -->
 
   <hr/>
-<img align="center" style="max-width:400px;width:100%" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" />
+<img align="center" style="max-width:300px;width:100%" src="https://preview.redd.it/jvujfnh7mfi51.gif?width=414&auto=webp&s=94ccb048e151baa0a625587da8134daffd74c0f1" />
 <div align="center">
   
 <a href="#">[![Github Badge](https://img.shields.io/badge/-@frank2899-000000?style=flat&labelColor=000000&logo=Github&link=https://github.com/frank2899)](https://github.com/frank2899)</a>
